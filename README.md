@@ -1,5 +1,5 @@
 # MLOPS
-The goal of the series is to use main components of MLOps like model building, monitoring, configurations, testing, packaging, deployment, cicd, etc.
+The goal of this repository is to use main components of MLOps like model building, monitoring, configurations, testing, packaging, deployment, cicd, etc.
 
 ![pl](images/summary.png)
 
